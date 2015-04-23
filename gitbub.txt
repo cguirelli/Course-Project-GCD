@@ -1,0 +1,6 @@
+cd  'D:/CLEBER/Pessoal/Diversos/Estudo Online/Get and Cleaning Data/Project'
+
+git remote add projeto  https://github.com/cguirelli/Course-Project-GCD.git
+git remote -v
+
+git clone https://github.com/cguirelli/Course-Project-GCD.git
